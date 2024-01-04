@@ -3,7 +3,7 @@ package hotelmanagement;
 
 public class HotelTest {
     public static void main(String[] args) {
-        otelManagementSystemExample hotel = new otelManagementSystemExample();
+        HotelManagementSystem hotel = new HotelManagementSystem();
 
         Room deluxeRoom1 = new DeluxeRoom(101);
         Room deluxeRoom2 = new DeluxeRoom(102);
