@@ -1,6 +1,8 @@
 // File: HotelTest.java
 package hotelmanagement;
 
+import lab9.HotelManagementSystem;
+
 public class HotelTest {
     public static void main(String[] args) {
         HotelManagementSystem hotel = new HotelManagementSystem();

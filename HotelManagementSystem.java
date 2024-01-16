@@ -1,5 +1,7 @@
 import java.util.concurrent.*;
 
+import lab9.HotelManagementSystem;
+
 // Class representing a guest in the hotel
 class Guest extends Thread {
     private String name;
