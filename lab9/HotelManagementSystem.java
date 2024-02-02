@@ -1,4 +1,4 @@
-package lab9;
+chpackage lab9;
 import javax.swing.*;
 import java.awt.*;
 import java.awt.event.ActionEvent;
